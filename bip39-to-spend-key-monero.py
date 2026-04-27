@@ -5,8 +5,8 @@ from bip_utils import (
     MoneroCoins
 )
 
-# Replace * with you seed phrase words
-BIP39_MNEMONIC = "mind indoor shy maid wonder define replace bread enough rule patient climb"
+# Insert 12 seed phrase words into "" seperated by spaces
+BIP39_MNEMONIC = ""
 
 def derive_keys(mnemonic):
     """
