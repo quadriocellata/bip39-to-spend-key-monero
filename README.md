@@ -1,5 +1,5 @@
 # bip39-to-spend-key-monero
-12 word BIP39 conversion to spend key. 
+12 word BIP39 conversion to spend key. Works for at least trezors derivation 
 
 Small python script to take a 12 word BIP39 seedphrase (such as those found in Trezor, Ledger and Cake Wallet) and print the private spend key, along with public address.
 
