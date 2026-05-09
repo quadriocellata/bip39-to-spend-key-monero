@@ -6,6 +6,7 @@ from bip_utils import (
 )
 
 # Insert 12 seed phrase words into "" seperated by spaces
+# E.g. "busy shallow nothing casino choose obvious work soldier bachelor trouble equal extend"
 BIP39_MNEMONIC = ""
 
 def derive_keys(mnemonic):
